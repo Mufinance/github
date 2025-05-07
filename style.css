@@ -8,11 +8,11 @@ body {
 
 /* Heading */
 h1 {
-    color: #007BFF;
+    color: #ff0062;
     text-align: center;
     margin-top: 100px;
     font-size: 3rem;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    text-shadow: 1px 1px 3px rgba(245, 2, 2, 0.2);
 }
 
 /* Optional subtitle */
